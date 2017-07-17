@@ -1,0 +1,13 @@
+---
+- name: I start the coffee machine
+  uid: 3fbc45fa-c4ea-417a-acb2-a8a09c5e170e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: i take a coffee
+  uid: c01ebcb6-3db1-45dd-a2ef-39186b0e63aa
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: coffee should be served
+  uid: 9184c43f-76fe-46f3-b151-f7504c5be89b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
