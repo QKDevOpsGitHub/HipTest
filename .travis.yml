@@ -2,8 +2,8 @@ language: java
 sudo: false
 
 before_install:
-  - rvm install 3.2.1
-  - rvm use 3.2.1
+  - rvm install 2
+  - rvm use 2
   - gem install hiptest-publisher
   - hiptest-publisher -c hiptest-publisher.config --only=tests --test-run-id=93665
 
